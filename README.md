@@ -1,2 +1,0 @@
-# clarovideo
-Clarovide build
